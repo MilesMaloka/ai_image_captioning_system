@@ -36,6 +36,3 @@ Users can upload an image and receive an automatically generated natural languag
 3. The BLIP model generates a caption.
 4. The caption is decoded and displayed in the web interface.
 
----
-
-## Project Structure
