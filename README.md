@@ -8,8 +8,8 @@ Users can upload an image and receive an automatically generated natural languag
 
 ## Live Demo
 
-Deployed on Hugging Face Spaces using Gradio.
-
+- Deployed on Hugging Face Spaces using Gradio.
+- Link: https://milesmaloka-ai-image-captioning.hf.space/
 ---
 
 ## Model Used
