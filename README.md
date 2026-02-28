@@ -6,7 +6,7 @@ Users can upload an image and receive an automatically generated natural languag
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
 Deployed on Hugging Face Spaces using Gradio.
 
